@@ -359,6 +359,7 @@ tr.heading {
 
 img {
     border: none;
+    image-orientation: from-image;
 }
 
 table.imgtable, table.imgtable td {
